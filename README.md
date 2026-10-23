@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Enumeration
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Bucket Sort
 |  |
 | ------- |
