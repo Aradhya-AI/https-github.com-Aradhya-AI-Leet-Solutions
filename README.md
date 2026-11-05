@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3731-find-missing-elements](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3731-find-missing-elements](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2974-minimum-number-game) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3731-find-missing-elements](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Algorithm X
 |  |
