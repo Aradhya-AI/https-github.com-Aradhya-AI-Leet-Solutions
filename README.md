@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2747-count-zero-request-servers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2899-last-visited-integers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2899-last-visited-integers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2747-count-zero-request-servers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2747-count-zero-request-servers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2974-minimum-number-game](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2974-minimum-number-game) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1695-maximum-erasure-value](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1695-maximum-erasure-value) |
+| [2747-count-zero-request-servers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Depth-First Search
 |  |
 | ------- |
