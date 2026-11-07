@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0546-remove-boxes) |
 | [0647-palindromic-substrings](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0834-sum-of-distances-in-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2050-parallel-courses-iii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2266-count-number-of-texts](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2266-count-number-of-texts) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0834-sum-of-distances-in-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0310-minimum-height-trees) |
 | [0765-couples-holding-hands](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0765-couples-holding-hands) |
+| [0834-sum-of-distances-in-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0310-minimum-height-trees) |
 | [0765-couples-holding-hands](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0765-couples-holding-hands) |
+| [0834-sum-of-distances-in-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [2050-parallel-courses-iii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2050-parallel-courses-iii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
@@ -526,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0207-course-schedule) |
 | [2050-parallel-courses-iii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2050-parallel-courses-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
