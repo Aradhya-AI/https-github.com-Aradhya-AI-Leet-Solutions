@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-parallel-courses-iii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2050-parallel-courses-iii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2050-parallel-courses-iii) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2266-count-number-of-texts](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2266-count-number-of-texts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3098-find-the-sum-of-subsequence-powers) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Sliding Window
 |  |
 | ------- |
