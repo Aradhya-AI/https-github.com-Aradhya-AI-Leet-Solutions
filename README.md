@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2747-count-zero-request-servers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2899-last-visited-integers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2899-last-visited-integers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2266-count-number-of-texts) |
 | [2420-find-all-good-indices](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2420-find-all-good-indices) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3665-twisted-mirror-path-count](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
