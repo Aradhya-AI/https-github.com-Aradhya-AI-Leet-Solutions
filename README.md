@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1656-design-an-ordered-stream](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1690-stone-game-vii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1690-stone-game-vii) |
 | [1695-maximum-erasure-value](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1695-maximum-erasure-value) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1400-construct-k-palindrome-strings](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1656-design-an-ordered-stream](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1711-count-good-meals) |
@@ -494,12 +496,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1656-design-an-ordered-stream](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1656-design-an-ordered-stream](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1656-design-an-ordered-stream) |
 ## Ordered Set
 |  |
 | ------- |
