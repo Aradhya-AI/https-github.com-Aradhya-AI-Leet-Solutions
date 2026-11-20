@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2266-count-number-of-texts) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2409-count-days-spent-together](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2409-count-days-spent-together) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
