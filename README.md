@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1745-palindrome-partitioning-iv](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2129-capitalize-the-title) |
 | [2266-count-number-of-texts](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2266-count-number-of-texts) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aradhya-AI/https-github.com-Aradhya-AI-Leet-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
